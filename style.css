@@ -10,7 +10,7 @@ html{
     font-size: 62.5%;
     font-family: 'Bruno Ace', cursive;
     background-image: linear-gradient(to bottom right, #ff8787,#f03e3e);
-    height: 105vh;
+    height: 120vh;
 
 }
 
@@ -39,7 +39,7 @@ img{
 
 .overlay{
     width: 100%;
-    height: 105vh;
+    height: 120vh;
     position: absolute;
     z-index: 1000;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0,0,0,0.9));
